@@ -1,0 +1,87 @@
+{
+    "BigWallJump": {
+        "checkpoints": [
+            {
+                "steps": 999917,
+                "file_path": "results/newWallJump/BigWallJump/BigWallJump-999917.onnx",
+                "reward": -1.1762778154677815,
+                "creation_time": 1668474934.9610746,
+                "auxillary_file_paths": [
+                    "results/newWallJump/BigWallJump/BigWallJump-999917.pt"
+                ]
+            },
+            {
+                "steps": 1499978,
+                "file_path": "results/newWallJump/BigWallJump/BigWallJump-1499978.onnx",
+                "reward": -0.9987500719726086,
+                "creation_time": 1668475631.162584,
+                "auxillary_file_paths": [
+                    "results/newWallJump/BigWallJump/BigWallJump-1499978.pt"
+                ]
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results/newWallJump/BigWallJump/BigWallJump-1999995.onnx",
+                "reward": -0.9980000704526901,
+                "creation_time": 1668476320.464056,
+                "auxillary_file_paths": [
+                    "results/newWallJump/BigWallJump/BigWallJump-1999995.pt"
+                ]
+            },
+            {
+                "steps": 2499891,
+                "file_path": "results/newWallJump/BigWallJump/BigWallJump-2499891.onnx",
+                "reward": -0.9984000712633133,
+                "creation_time": 1668477004.0982018,
+                "auxillary_file_paths": [
+                    "results/newWallJump/BigWallJump/BigWallJump-2499891.pt"
+                ]
+            },
+            {
+                "steps": 2703961,
+                "file_path": "results/newWallJump/BigWallJump/BigWallJump-2703961.onnx",
+                "reward": null,
+                "creation_time": 1668477287.4976122,
+                "auxillary_file_paths": [
+                    "results/newWallJump/BigWallJump/BigWallJump-2703961.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2703961,
+            "file_path": "results/newWallJump/BigWallJump.onnx",
+            "reward": null,
+            "creation_time": 1668477287.4976122,
+            "auxillary_file_paths": [
+                "results/newWallJump/BigWallJump/BigWallJump-2703961.pt"
+            ]
+        }
+    },
+    "SmallWallJump": {
+        "checkpoints": [
+            {
+                "steps": 208948,
+                "file_path": "results/newWallJump/SmallWallJump/SmallWallJump-208948.onnx",
+                "reward": 0.6873114765421334,
+                "creation_time": 1668477287.3286765,
+                "auxillary_file_paths": [
+                    "results/newWallJump/SmallWallJump/SmallWallJump-208948.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 208948,
+            "file_path": "results/newWallJump/SmallWallJump.onnx",
+            "reward": 0.6873114765421334,
+            "creation_time": 1668477287.3286765,
+            "auxillary_file_paths": [
+                "results/newWallJump/SmallWallJump/SmallWallJump-208948.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
